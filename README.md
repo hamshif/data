@@ -4,7 +4,7 @@ Data
 Git
 =
 ```
-git clone --recursive data:  https://github.com/hamshif/data.git
+git clone --recursive https://github.com/hamshif/data.git
 
 # or
 
