@@ -1,0 +1,13 @@
+/target
+.classpath
+.project
+/.settings
+/logs
+!build
+.DS_Store
+/build/logs
+*.iml
+*.idea
+*.log
+
+/useful
