@@ -15,7 +15,7 @@
 	url = https://github.com/hamshif/docker-scripts.git
 [submodule "dags"]
 	path = dags
-	url = https://github.com/hamshif/das.git
+	url = https://github.com/hamshif/dags.git
 [submodule "Pipelines"]
 	path = Pipelines
 	url = https://github.com/hamshif/Pipelines.git
