@@ -1,0 +1,21 @@
+[submodule "Wielder"]
+	path = Wielder
+	url = https://github.com/hamshif/Wielder.git
+[submodule "provision"]
+	path = provision
+	url = https://github.com/hamshif/provision.git
+[submodule "data-config"]
+	path = data-config
+	url = https://github.com/hamshif/data-config.git
+[submodule "data-common"]
+	path = data-common
+	url = https://github.com/hamshif/data-common.git
+[submodule "docker-scripts"]
+	path = docker-scripts
+	url = https://github.com/hamshif/docker-scripts.git
+[submodule "dags"]
+	path = dags
+	url = https://github.com/hamshif/das.git
+[submodule "Pipelines"]
+	path = Pipelines
+	url = https://github.com/hamshif/Pipelines.git
