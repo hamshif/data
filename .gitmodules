@@ -19,3 +19,6 @@
 [submodule "Pipelines"]
 	path = Pipelines
 	url = https://github.com/hamshif/Pipelines.git
+[submodule "wield-services"]
+	path = wield-services
+	url = https://github.com/hamshif/wield-services.git
