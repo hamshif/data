@@ -22,3 +22,6 @@
 [submodule "wield-services"]
 	path = wield-services
 	url = https://github.com/hamshif/wield-services.git
+[submodule "micros"]
+	path = micros
+	url = https://github.com/hamshif/micros.git
