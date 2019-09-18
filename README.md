@@ -11,6 +11,11 @@ git clone --recursive https://github.com/hamshif/data.git
 git clone https://github.com/hamshif/data.git
 cd data
 git submodule update --init --recursive
+
+# or
+
+
+git submodule foreach 'git checkout master && git pull'
 ```
 
 
