@@ -20,7 +20,7 @@ git submodule foreach 'git checkout master && git pull'
 
 
 This is a super repository for use in cloud data projects such as datalake
-It its used to version control code in different languages and frameworks organized in independent repositories
+It's used to version control code in different languages and frameworks organized in independent repositories
 
 submodule git instructions at:
 
